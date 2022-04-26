@@ -131,5 +131,15 @@ span{
     text-align: center;
 }
 
+@media (max-width:1200px){
+    .myimg{
+        width: 12rem;
+        margin-bottom: 1rem;
+    }
+}
+
+
+
+
 
 
