@@ -58,5 +58,41 @@ span{
 
 .banner-image{
     background: #F0FFF0;
-    height: 76vh;
+    
+    background-size: cover;
 }
+
+.center{
+    line-height: 1rem;
+}
+
+.bg-crmm{
+    background-color: #F0FFF0;
+    
+
+}
+
+.cat-1, .cat-3, .cat-2, .cat-4{
+    padding: 40px 25px 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.cat-1, .cat-3, .cat-4{
+    background-color:#F0FFF0;
+    
+    
+}
+.banner-image{
+    padding-bottom: 1rem;
+}
+
+@media (max-width:767px){
+    .cat-1,.cat-2,.cat-3,.cat4{
+        margin-bottom: 2rem;
+    }
+}
+
+
+
+
