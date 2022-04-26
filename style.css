@@ -30,3 +30,33 @@ body{
 }
 
 
+#red{
+    color:#FD511A;
+}
+#para{
+    font-weight: bolder;
+    font-size: 3.3rem;
+    line-height: 4rem;
+}
+
+.para{
+    text-align: justify;
+}
+
+.container{
+    margin-bottom: 2rem;
+}
+
+span{
+    color: #21B573;
+}
+
+.btn{
+    border-radius: 30px!important;
+    background-color: #21B573!important;
+}
+
+.banner-image{
+    background: #F0FFF0;
+    height: 76vh;
+}
