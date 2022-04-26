@@ -119,6 +119,14 @@ span{
     .cat-1,.cat-2,.cat-3,.cat4{
         margin-bottom: 2rem;
     }
+
+    .n{
+        text-align: center!important;
+        
+    }
+    #ni{
+        float: left;
+    }
 }
 
 .card{
@@ -137,6 +145,11 @@ span{
         margin-bottom: 1rem;
     }
 }
+
+.ft-para{
+    color: #CDCDCD;
+}
+
 
 
 
