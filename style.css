@@ -78,11 +78,37 @@ span{
     text-align: center;
 }
 
-.cat-1, .cat-3, .cat-4{
+.cat-1, .cat-3, .cat-2, .cat-4{
     background-color:#F0FFF0;
     
     
 }
+
+.cat-1:hover{
+    
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+.cat-2:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: white;
+
+}
+
+.cat-3:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: white;
+
+}
+
+.cat-4:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: white;
+
+}
+
 .banner-image{
     padding-bottom: 1rem;
 }
